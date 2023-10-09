@@ -1,3 +1,45 @@
-body {
-    background-color:lightblue;
+
+* {
+    text-align: center;
+    font-size: large;
 }
+
+body {
+    background-color:#000000;
+    color:#FFFFFC;
+    font-family: 'Gabarito', 'Rajdhani', 'Arial';
+}
+
+h1 {
+    color:#FF3F00
+}
+
+.bar {
+    color:#FF7F11;
+}
+
+.title {
+    color:#FF3F00;
+}
+
+.section {
+    border-style:solid;
+    border-color: #BEB7A4;
+}
+
+a {
+    color:#FF7F11;
+}
+
+a:hover, a:active {
+    color: #FF3F00;
+}
+
+/* 
+Colours:
+BEB7A4 - Grey (div borders)
+FF7F11 - Orange (links)
+FFFFFC - White (text)
+FF3F00 - Red (titles)
+000000 - Black (background colour)
+*/
