@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Pledge</title>
-    <!-- Bootstrap css -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="fonts.css">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Rajdhani&display=swap');
-    </style>
-</head>
+
+<!-- adds the information in <head> and changes the title of the page  -->
+<?php
+$pageTitle = "Our Pledge";
+include_once 'head.php';
+?>
 
 <body>
     <!-- Includes the navbar  -->
@@ -24,11 +18,12 @@
     <div class="row">
     <div class="col section">
     <!-- This is called cupcake ipsum, which is a lot more fun than using a normal lorem ipsum generator  -->
-    <!-- <a href="#">Link</a> -->
-    Icing carrot cake danish marshmallow ice cream sweet roll cupcake. Cake bear claw dessert oat cake icing danish jelly chocolate cake. Croissant lemon drops wafer liquorice chocolate toffee. Shortbread gingerbread chocolate cake pie brownie shortbread macaroon liquorice. Biscuit cake candy tiramisu jelly tootsie roll. Cotton candy shortbread toffee tart halvah dessert topping caramels bear claw. Pastry cookie gummi bears cake donut sesame snaps cotton candy liquorice apple pie. Tart croissant powder muffin chocolate pastry gingerbread. Tootsie roll gingerbread chocolate bar croissant carrot cake chocolate macaroon icing. Sweet roll bonbon lollipop carrot cake fruitcake. Candy chocolate toffee toffee caramels lollipop. Gummies chocolate dessert candy powder chocolate. Gummi bears cookie jelly-o tart sweet roll jujubes. Chocolate pastry gingerbread powder sweet roll.
+        <h1 class="second-title">What we do for the environment</h1>
+        <p>Icing carrot cake danish marshmallow ice cream sweet roll cupcake. Cake bear claw dessert oat cake icing danish jelly chocolate cake. Croissant lemon drops wafer liquorice chocolate toffee. Shortbread gingerbread chocolate cake pie brownie shortbread macaroon liquorice. Biscuit cake candy tiramisu jelly tootsie roll. Cotton candy shortbread toffee tart halvah dessert topping caramels bear claw. Pastry cookie gummi bears cake donut sesame snaps cotton candy liquorice apple pie. Tart croissant powder muffin chocolate pastry gingerbread. Tootsie roll gingerbread chocolate bar croissant carrot cake chocolate macaroon icing. Sweet roll bonbon lollipop carrot cake fruitcake. Candy chocolate toffee toffee caramels lollipop. Gummies chocolate dessert candy powder chocolate. Gummi bears cookie jelly-o tart sweet roll jujubes. Chocolate pastry gingerbread powder sweet roll.</p>
     </div>
     <div class="col section">
-    Sugar plum bear claw topping biscuit gingerbread. Candy canes carrot cake dessert sweet candy. Fruitcake lollipop lollipop apple pie jujubes gummi bears bonbon lollipop halvah. Candy canes chocolate bar bonbon cake macaroon brownie shortbread jelly. Tart biscuit macaroon brownie donut lollipop muffin pie. Jujubes topping powder donut gummi bears sesame snaps. Cake gummi bears shortbread apple pie gummies marzipan. Cake wafer ice cream liquorice sweet topping tootsie roll sweet roll ice cream. Jelly caramels shortbread chocolate cake croissant chocolate bar gummi bears cotton candy gummies. Cookie donut tart chocolate bar dessert cotton candy. Tart fruitcake dessert chocolate cake fruitcake tootsie roll. Cookie marshmallow apple pie chupa chups brownie carrot cake brownie biscuit lollipop. Sweet danish bear claw liquorice toffee bonbon toffee icing.
+        <h1 class="second-title">How you can help us</h1>
+        <p>Sugar plum bear claw topping biscuit gingerbread. Candy canes carrot cake dessert sweet candy. Fruitcake lollipop lollipop apple pie jujubes gummi bears bonbon lollipop halvah. Candy canes chocolate bar bonbon cake macaroon brownie shortbread jelly. Tart biscuit macaroon brownie donut lollipop muffin pie. Jujubes topping powder donut gummi bears sesame snaps. Cake gummi bears shortbread apple pie gummies marzipan. Cake wafer ice cream liquorice sweet topping tootsie roll sweet roll ice cream. Jelly caramels shortbread chocolate cake croissant chocolate bar gummi bears cotton candy gummies. Cookie donut tart chocolate bar dessert cotton candy. Tart fruitcake dessert chocolate cake fruitcake tootsie roll. Cookie marshmallow apple pie chupa chups brownie carrot cake brownie biscuit lollipop. Sweet danish bear claw liquorice toffee bonbon toffee icing.</p>
     </div>
   </div>
 

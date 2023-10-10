@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Thing</title>
-    <!-- Bootstrap css -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles.css">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Rajdhani&display=swap');
-    </style>
-</head>
+
+<!-- adds the information in <head> and changes the title of the page  -->
+<?php
+$pageTitle = "Kernow Music Festival";
+include_once 'head.php';
+?>
 
 <body>
     <!-- Includes the navbar  -->
@@ -18,7 +13,7 @@
 
     <!-- change the video src up to the ? to change featured video -->
     <iframe width="100%" height="500" 
-    src="https://www.youtube.com/embed/8JPtxtSK-Cs?autoplay=1&mute=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    src="https://www.youtube.com/embed/ANMYO6xW8P0?autoplay=1&mute=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </iframe>
 
     <!-- Bootstrap links -->

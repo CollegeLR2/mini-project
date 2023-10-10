@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
-    <!-- Bootstrap css -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="fonts.css">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Rajdhani&display=swap');
-    </style>
-</head>
+
+<!-- adds the information in <head> and changes the title of the page  -->
+<?php
+$pageTitle = "Contact";
+include_once 'head.php';
+?>
 
 <body>
     <!-- Includes the navbar  -->
@@ -23,16 +17,19 @@
 
     <div class="row">
     <div class="col section">
-        <p>email</p>
-        <p>phone #</p>
-        <p>facebook</p>
-        <p>instagram</p>
+        <i class="fa-regular fa-envelope"> contact@kernowmusic.com</i>
+        <br />
+        <i class="fa-solid fa-phone"> 0123456789</i>
+        <br />
+        <i class="fa-brands fa-facebook"> Kernow Music Festival</i>
+        <br />
+        <i class="fa-brands fa-instagram"> @KernowMusicFestival</i>
     </div>
     <!-- form for the user's email to be added to an early bird ticket list -->
     <div class="col section">
         Get notified when tickets go on sale!
-        <form method="POST">
-            <input type="text" placeholder="Your email">
+        <form action="display.php" method="POST">
+            <input name="email" type="text" placeholder="Your email">
             <button type="submit">Submit</button>
         </form>
     </div>
