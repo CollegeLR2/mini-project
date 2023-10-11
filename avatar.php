@@ -12,7 +12,9 @@ include_once 'head.php';
     <?php include_once "navbar.php"; ?>
 
     <div>
-        <h1 class="title">Avatar</h1>
+        <!-- <h1 class="title">Avatar</h1> -->
+        <img src="avatar-logo.png" style="width:30%; margin: -150px 0 -150px 0;" alt="Avatar">
+        <!-- -75px 0 0 -100px  -->
     </div>
 
     <div>

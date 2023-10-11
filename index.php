@@ -12,8 +12,9 @@ include_once 'head.php';
     <?php include_once "navbar.php"; ?>
 
     <!-- change the video src up to the ? to change featured video -->
+    <!-- rel=0 is used to remove the "more videos" part that comes up when the video pauses -->
     <iframe width="100%" height="500" 
-    src="https://www.youtube.com/embed/ANMYO6xW8P0?autoplay=1&mute=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    src="https://www.youtube.com/embed/ANMYO6xW8P0?autoplay=1&mute=1&loop=1&controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </iframe>
 
     <!-- Bootstrap links -->

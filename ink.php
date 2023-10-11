@@ -12,7 +12,8 @@ include_once 'head.php';
     <?php include_once "navbar.php"; ?>
 
     <div>
-        <h1 class="title">Ice Nine Kills</h1>
+        <!-- <h1 class="title">Ice Nine Kills</h1> -->
+        <img src="ink-logo.png" style="width:30%" alt="Ice Nine Kills">
     </div>
 
     <div>

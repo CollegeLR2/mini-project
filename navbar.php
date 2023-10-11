@@ -4,7 +4,7 @@
   <a class="navbar-brand" href="index.php">
     <img src="first iteration logo.png" style="width:60px; height:60px" alt="Kernow Music Fest">
   </a>
-
+ 
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <!-- not sure why the navbar toggler icon is coming up black so I just made it white text  -->
     <span class="navbar-toggler-icon" style="color: #FFFFFC">More</span>

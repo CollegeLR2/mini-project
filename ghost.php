@@ -12,7 +12,8 @@ include_once 'head.php';
     <?php include_once "navbar.php"; ?>
 
     <div>
-        <h1 class="title">Ghost</h1>
+        <!-- <h1 class="title">Ghost</h1> -->
+        <img src="ghost-logo.png" style="width: 30%" alt="Ghost">
     </div>
 
     <div>
