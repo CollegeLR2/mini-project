@@ -17,13 +17,17 @@ include_once 'head.php';
 
     <div class="row">
     <div class="col section">
-    <!-- This is called cupcake ipsum, which is a lot more fun than using a normal lorem ipsum generator  -->
         <h1 class="second-title">What we do for the environment</h1>
-        <p>Icing carrot cake danish marshmallow ice cream sweet roll cupcake. Cake bear claw dessert oat cake icing danish jelly chocolate cake. Croissant lemon drops wafer liquorice chocolate toffee. Shortbread gingerbread chocolate cake pie brownie shortbread macaroon liquorice. Biscuit cake candy tiramisu jelly tootsie roll. Cotton candy shortbread toffee tart halvah dessert topping caramels bear claw. Pastry cookie gummi bears cake donut sesame snaps cotton candy liquorice apple pie. Tart croissant powder muffin chocolate pastry gingerbread. Tootsie roll gingerbread chocolate bar croissant carrot cake chocolate macaroon icing. Sweet roll bonbon lollipop carrot cake fruitcake. Candy chocolate toffee toffee caramels lollipop. Gummies chocolate dessert candy powder chocolate. Gummi bears cookie jelly-o tart sweet roll jujubes. Chocolate pastry gingerbread powder sweet roll.</p>
+        <p>Reducing Our Carbon Footprint: We prioritise the use of renewable energy sources to power our stages, minimising our impact on the environment. Solar panels and wind turbines are employed to harness nature's energy and ensure our festival leaves a light footprint.</p>
+        <p>Waste Reduction Initiatives: Through careful planning and partnerships with local recycling facilities, we're committed to minimising waste. Recycling stations are strategically placed throughout the festival grounds, and we encourage attendees to join us in our mission to keep Cornwall clean.</p>
+        <p>Nature Conservation Efforts: We work hand-in-hand with local environmental organisations to protect and preserve the natural beauty of Cornwall. Funds raised from our festival go towards initiatives like habitat restoration, wildlife conservation, and reforestation projects.</p>
     </div>
     <div class="col section">
         <h1 class="second-title">How you can help us</h1>
-        <p>Sugar plum bear claw topping biscuit gingerbread. Candy canes carrot cake dessert sweet candy. Fruitcake lollipop lollipop apple pie jujubes gummi bears bonbon lollipop halvah. Candy canes chocolate bar bonbon cake macaroon brownie shortbread jelly. Tart biscuit macaroon brownie donut lollipop muffin pie. Jujubes topping powder donut gummi bears sesame snaps. Cake gummi bears shortbread apple pie gummies marzipan. Cake wafer ice cream liquorice sweet topping tootsie roll sweet roll ice cream. Jelly caramels shortbread chocolate cake croissant chocolate bar gummi bears cotton candy gummies. Cookie donut tart chocolate bar dessert cotton candy. Tart fruitcake dessert chocolate cake fruitcake tootsie roll. Cookie marshmallow apple pie chupa chups brownie carrot cake brownie biscuit lollipop. Sweet danish bear claw liquorice toffee bonbon toffee icing.</p>
+        <p>Choose Sustainable Transportation: Opt for eco-friendly modes of transportation such as carpooling, cycling, or public transit to get to the festival. Additionally, we offer incentives for attendees who arrive using sustainable transport options.</p>
+        <p>Reduce, Reuse, Recycle: Join us in our waste reduction efforts by utilising the clearly marked recycling stations. Make a conscious effort to minimise single-use items and consider bringing reusable water bottles and containers.</p>
+        <p>Support Local and Eco-Friendly Vendors: Indulge in the flavours of Cornwall by patronising our carefully selected food vendors who prioritise sustainable practices. From locally-sourced ingredients to compostable packaging, these vendors share our commitment to the environment.</p>
+        <p>Spread the Word: Help us amplify our eco-friendly message. Share your experiences and the steps you've taken to reduce your environmental impact during the festival on social media platforms using our designated hashtags.</p>
     </div>
   </div>
 

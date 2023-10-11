@@ -22,8 +22,8 @@ include_once 'head.php';
 </body>
 
 <footer>
-    <h1>Welcome to the coolest music festival in Cornwall!</h1>
-    <p>Chocolate lemon drops carrot cake apple pie macaroon. Candy canes cookie chocolate bonbon icing pudding lemon drops tiramisu halvah. Lollipop pie powder fruitcake cake. Croissant biscuit jelly-o lollipop sesame snaps. Muffin jelly-o bonbon cupcake candy jelly chocolate bar. Chocolate bar icing cookie topping pie chocolate bar cupcake sugar plum gingerbread. Jelly beans chocolate powder lollipop soufflé tootsie roll sweet lemon drops.</p>
+    <h1>Welcome to Cornwall's Premier Eco-Friendly Festival!</h1>
+    <p style="padding:30px">Embrace the power of music amidst the rugged beauty of Cornwall. Join us for an electrifying celebration of rock and metal, all while championing the cause of environmental sustainability. Get ready for an unforgettable experience that harmonises epic sounds with an eco-conscious spirit.</p>
 </footer>
 
 </html>

@@ -3,7 +3,7 @@
 
 <!-- adds the information in <head> and changes the title of the page  -->
 <?php
-$pageTitle = "Line-Up";
+$pageTitle = "Lineup";
 include_once 'head.php';
 ?>
 
@@ -12,7 +12,7 @@ include_once 'head.php';
     <?php include_once "navbar.php"; ?>
 
     <div>
-        <h1 class="title">Line-Up</h1>
+        <h1 class="title">Lineup</h1>
     </div>
 
     <p>make a picture of the lineup</p>

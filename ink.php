@@ -16,10 +16,13 @@ include_once 'head.php';
     </div>
 
     <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ozOb5FcnDf4?si=OFQHDGukqoV6HFXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="45%" height="315" src="https://www.youtube.com/embed/ozOb5FcnDf4?si=OFQHDGukqoV6HFXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
-    <div class="row">
-        <p>Cupcake ipsum dolor sit amet chocolate carrot cake lemon drops jelly-o. Dessert candy lemon drops icing jujubes. Oat cake tart chocolate gummies dessert chocolate cake. Fruitcake marzipan chocolate brownie chupa chups candy fruitcake. Cupcake croissant icing pie oat cake gingerbread tart. Sugar plum candy canes powder chupa chups biscuit sweet roll sweet roll cotton candy. Candy canes bonbon muffin lollipop brownie shortbread dragée. Cookie oat cake donut tart halvah gummi bears sweet roll soufflé. Tart liquorice shortbread jelly beans candy canes.</p>
+    <div class="row" style="padding: 3%">
+        <p>Hailing from Boston, Massachusetts, Ice Nine Kills is a band that has mastered the art of blending metalcore with elements of theatricality and horror. Their music is a sonic journey through dark narratives and haunting melodies, setting them apart in the world of heavy music.</p>
+        <p>Fronted by Spencer Charnas, Ice Nine Kills is known for their vivid storytelling and dynamic stage presence. Charnas' commanding vocals and charismatic performance style bring their horror-inspired narratives to life, creating an immersive experience for their fans. The band's music is a chilling exploration of both classic and modern horror tales.</p>
+        <p>Ice Nine Kills has released a series of critically acclaimed albums, including "Every Trick in the Book" and "The Silver Scream". These albums have garnered praise for their inventive approach to storytelling through music. The band's live shows are nothing short of a theatrical spectacle, featuring elaborate costumes and captivating visuals that bring their horror-themed narratives to life. This dedication to their craft has earned them a reputation as a must-see live act in the metalcore scene. Their albums have achieved significant commercial success, with chart-topping positions and millions of streams worldwide. Additionally, Ice Nine Kills has received nominations and awards within the metal and alternative music communities.</p>
+        <p>With a dedicated fan base and a reputation for pushing the boundaries of metalcore, Ice Nine Kills continues to captivate audiences with their unique blend of horror-inspired narratives and powerful music.</p>
     </div>
 
 
