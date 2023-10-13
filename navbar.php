@@ -29,8 +29,11 @@
         </a>
         <ul class="dropdown-menu">
           <li><a class="dropdown-item" href="avatar.php">Avatar</a></li>
+          <li><a class="dropdown-item" href="etf.php">Escape the Fate</a></li>
           <li><a class="dropdown-item" href="ghost.php">Ghost</a></li>
           <li><a class="dropdown-item" href="ink.php">Ice Nine Kills</a></li>
+          <li><a class="dropdown-item" href="miw.php">Motionless in White</a></li>          
+          <li><a class="dropdown-item" href="soad.php">System of a Down</a></li>
         </ul>
       </li>
     </ul>

@@ -13,8 +13,8 @@ include_once 'head.php';
 
     <div>
         <!-- <h1 class="title">Avatar</h1> -->
-        <img src="avatar-logo.png" style="width:30%; margin: -150px 0 -150px 0;" alt="Avatar">
-        <!-- -75px 0 0 -100px  -->
+        <img src="avatar-logo.png" style="width:30%; margin: -7.5% 0 -7.5% 0;" alt="Avatar">
+        <!-- -150px 0 -150px 0  -->
     </div>
 
     <div>
