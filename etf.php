@@ -20,7 +20,7 @@ include_once 'head.php';
         <iframe width="45%" height="315" src="https://www.youtube.com/embed/F1qX5IX7Gsk?si=CCDrN_YgBWNr-9fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
-    <div class="row" style="padding: 3%">
+    <div class="row" style="padding-left: 10%; padding-right: 10%;">
         <p>Hailing from Las Vegas, Nevada, Escape the Fate is a dynamic American rock band known for their high-energy performances and emotionally charged music. Their music resonates with a mix of post-hardcore and alternative rock elements, captivating audiences around the world.</p>
         <p>Led by charismatic frontman Craig Mabbitt, the band's music delves into personal struggles and triumphs, delivered with a raw and unfiltered intensity. Escape the Fate's songs are a rollercoaster ride of emotions, blending powerful vocals with intricate instrumentals.</p>
         <p>Their discography features acclaimed albums like "Dying Is Your Latest Fashion" and "This War Is Ours". These records have garnered praise for their cathartic and relatable themes. Their live shows are a visceral experience, marked by an electrifying stage presence and a deep connection with their audience. This dedication to their craft has solidified Escape the Fate's reputation as a band that leaves a lasting impression. Their albums have achieved notable commercial success, earning them a dedicated fan base worldwide.</p>

@@ -36,6 +36,9 @@ include_once 'head.php';
             <input name="email" type="text" placeholder="Your email">
             <button type="submit">Submit</button>
         </form>
+
+        <?php include_once 'carousel.php' ?>
+
     </div>
   </div>
 

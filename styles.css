@@ -9,6 +9,10 @@ body {
     font-family: 'Gabarito', 'Rajdhani', 'Arial';
 }
 
+p {
+    font-size: 115%;
+}
+
 h1 {
     color:#FF3F00
 }

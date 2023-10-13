@@ -20,7 +20,7 @@ include_once 'head.php';
         <iframe width="45%" height="315" src="https://www.youtube.com/embed/B3faYe5V4Sk?si=rd1YrXy6fCCFTnnZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
-    <div class="row" style="padding: 3%">
+    <div class="row" style="padding-left: 10%; padding-right: 10%;">
         <p>Hailing from Scranton, Pennsylvania, Motionless in White is a formidable American metal band known for their dark and theatrical aesthetic. Their music combines elements of metalcore and industrial rock, creating a powerful and haunting sonic experience that resonates with audiences worldwide.</p>
         <p>Fronted by the charismatic Chris Motionless, the band's music explores themes of horror, darkness, and introspection. Motionless in White's songs are a fusion of aggressive instrumentals and thought-provoking lyrics, delivered with a commanding intensity.</p>
         <p>Their discography boasts critically acclaimed albums like "Graveyard Shift" and "Infamous". These records have garnered praise for their uncompromising approach to exploring the darker facets of human existence. Their live performances are a visceral spectacle, characterized by elaborate stage designs and a captivating stage presence. This commitment to their craft has solidified Motionless in White's reputation as a band that leaves a profound impact. Their albums have achieved significant commercial success, earning them a dedicated and passionate fan base worldwide.</p>
