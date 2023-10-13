@@ -28,6 +28,7 @@ h1 {
 .section {
     border-style:solid;
     border-color: #BEB7A4;
+    padding: 1.5%;
 }
 
 a {

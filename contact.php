@@ -17,18 +17,22 @@ include_once 'head.php';
 
     <div class="row">
     <div class="col section">
-        <i class="fa-regular fa-envelope"> contact@kernowmusic.com</i>
+        <i class="fa-regular fa-envelope"></i>
+        <p class="second-title">contact@kernowmusic.com</p>
         <br />
-        <i class="fa-solid fa-phone"> 0123456789</i>
+        <i class="fa-solid fa-phone"></i>
+        <p class="second-title">0123456789</p>
         <br />
-        <i class="fa-brands fa-facebook"> Kernow Music Festival</i>
+        <i class="fa-brands fa-facebook"></i>
+        <p class="second-title">Kernow Music Festival</p>
         <br />
-        <i class="fa-brands fa-instagram"> @KernowMusicFestival</i>
+        <i class="fa-brands fa-instagram"></i>
+        <p class="second-title">@KernowMusicFestival</p>
     </div>
     <!-- form for the user's email to be added to an early bird ticket list -->
     <div class="col section">
         Get notified when tickets go on sale!
-        <form action="display.php" method="POST">
+        <form action="database.php" method="POST" onSubmit="alert('Email submitted');">
             <input name="email" type="text" placeholder="Your email">
             <button type="submit">Submit</button>
         </form>

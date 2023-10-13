@@ -1,4 +1,4 @@
-<nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary" style="background-color: #000000">
+<nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary" style="background-color: #000000;">
 <div class="container-fluid">
 
   <a class="navbar-brand" href="index.php">

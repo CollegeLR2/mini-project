@@ -20,7 +20,7 @@ include_once 'head.php';
         <p>At Cornwall's Premier Eco-Friendly Music Festival, we're fueled by a deep-seated passion for music that resonates with the soul. For years, we've been curating lineups that bring together a diverse array of artists, from seasoned performers to emerging talents, creating an experience that transcends the ordinary. We believe in the power of music to unite, inspire, and ignite the spirit. Join us in celebrating the raw energy and unapologetic spirit of live performances.</p>
     </div>
     <div class="col section">
-        <h1 class="second-title">Championing Environmental Responsibility</h1>
+        <h1 class="second-title">Environmental Responsibilty</h1>
         <p>We're not just a festival; we're a movement for change. Our commitment to the environment is woven into the very fabric of our event. From renewable energy sources to waste reduction initiatives, every decision we make is guided by our dedication to a sustainable future. By attending our festival, you're not only immersing yourself in incredible music, but also becoming a part of a community that's actively working towards a greener, more eco-conscious world.</p>
     </div>
     <div class="col section">
