@@ -36,8 +36,8 @@ h1 {
 }
 
 .footer {
-    background-color: #BEB7A4;
-    color: #000000;    
+    border-style: solid;
+    border-color: #BEB7A4;  
 }
 
 a {
