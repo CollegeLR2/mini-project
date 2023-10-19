@@ -53,6 +53,11 @@ li {
     list-style: none;
 }
 
+label {
+    display: inline-block;
+    width: 5em;
+}
+
 /* 
 Colours:
 BEB7A4 - Grey (div borders)

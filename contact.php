@@ -33,7 +33,8 @@ include_once 'head.php';
     <div class="col section">
         Get notified when tickets go on sale!
         <form action="database.php" method="POST" onSubmit="alert('Email submitted');">
-            <input name="email" type="text" placeholder="Your email">
+            <!-- <input name="email" type="text" placeholder="Your email"> -->
+            <input id="email" placeholder="Your email" title="We will store your email in accordance with our privacy policy.">
             <button type="submit">Submit</button>
         </form>
 
