@@ -28,14 +28,5 @@ include_once 'head.php';
         <p>Set against the breathtaking backdrop of Cornwall's rugged coastline, our festival offers an unrivaled experience for music enthusiasts. With multiple stages featuring diverse lineups, interactive workshops, and artisanal food vendors, there's something for everyone. Whether you're enjoying performances or exploring the stunning surroundings, this festival promises an unforgettable adventure that captures the essence of both music and nature.</p>
     </div>
   </div>
-
-    <div class="row">
-        <?php //include_once 'carousel.php' ?>
-    </div>
-
-    <!-- Bootstrap links
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script> -->
 </body>
-
 </html>

@@ -11,10 +11,7 @@ include_once 'head.php';
     <!-- Includes the navbar  -->
     <?php include_once "navbar.php"; ?>
 
-    <div>
-        <!-- <h1 class="title">Avatar</h1> -->
         <img src="avatar-logo.png" style="width:30%; margin: -7.5% 0 -7.5% 0;" alt="Avatar">
-        <!-- -150px 0 -150px 0  -->
     </div>
 
     <div>
@@ -27,11 +24,5 @@ include_once 'head.php';
         <p>Avatar has released a series of critically acclaimed albums, including "Hail the Apocalypse" and "Avatar Country". These albums have garnered praise for their sonic diversity and conceptual depth. Their relentless touring schedule has seen them conquer stages on every continent, solidifying their reputation as a must-see live act. Their performances are a testament to their unwavering dedication to their craft. Additionally, their albums have made significant chart appearances in multiple countries, showcasing their widespread appeal and influence. The band has been nominated for and received numerous awards within the metal community, highlighting their impact on the genre. Avatar is also known for their visually striking and conceptually rich music videos, which further enhance the narrative dimension of their music.</p>
         <p>With a fan base that spans the globe, Avatar continues to push the boundaries of what's possible within the realm of metal music. Their live shows are an experience not to be missed, leaving audiences captivated and hungry for more.</p>
     </div>
-
-
-    <!-- Bootstrap links -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script> -->
 </body>
-
 </html>

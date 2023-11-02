@@ -34,7 +34,7 @@ include_once 'head.php';
         Get notified when tickets go on sale!
         <form action="database.php" method="POST" onSubmit="alert('Email submitted');">
             <!-- <input name="email" type="text" placeholder="Your email"> -->
-            <input id="email" placeholder="Your email" title="We will store your email in accordance with our privacy policy.">
+            <input id="email" placeholder="Your email" title="We will store your email in accordance with our privacy policy." required>
             <button type="submit">Submit</button>
         </form>
 
@@ -42,10 +42,5 @@ include_once 'head.php';
 
     </div>
   </div>
-
-    <!-- Bootstrap links -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script> -->
 </body>
-
 </html>

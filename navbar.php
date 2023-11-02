@@ -2,11 +2,13 @@
 <div class="container-fluid">
 
   <a class="navbar-brand" href="index.php">
-    <img src="first iteration logo.png" style="width:60px; height:60px" alt="Kernow Music Fest">
+    <img src="first iteration logo.png" style="width:60px; height:60px" 
+    alt="Kernow Music Fest">
   </a>
  
-  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <!-- not sure why the navbar toggler icon is coming up black so I just made it white text  -->
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+  data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" 
+  aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon" style="color: #FFFFFC">More</span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -27,7 +29,8 @@
         <a class="nav-link bar" href="info.php">Event Info</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle bar" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <a class="nav-link dropdown-toggle bar" href="#" role="button" data-bs-toggle="dropdown" 
+        aria-expanded="false">
             The Artists
         </a>
         <ul class="dropdown-menu">

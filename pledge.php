@@ -30,10 +30,5 @@ include_once 'head.php';
         <p>Spread the Word: Help us amplify our eco-friendly message. Share your experiences and the steps you've taken to reduce your environmental impact during the festival on social media platforms using our designated hashtags.</p>
     </div>
   </div>
-
-    <!-- Bootstrap links -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script> -->
 </body>
-
 </html>
